@@ -1,0 +1,22 @@
+FATORIAL
+
+
+    4! = 4 * 3 * 2 * 1 = FATORIAL
+         1 * 2 * 3 * 4
+
+    int valor = denominador;
+    int fatorial = 1;
+
+     // 2 > 1 ?
+    while (valor > 1) {
+       
+        fatorial = fatorial * valor
+        //             12 *  2
+        valor--;
+    }
+
+    VALOR  FATORIAL
+      4       4
+      3       12
+      2       24
+      1
